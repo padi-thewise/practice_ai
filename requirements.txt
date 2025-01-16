@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+pandas
+numpy
+scikit-learn
+gdown
+pyarrow
+datasets
